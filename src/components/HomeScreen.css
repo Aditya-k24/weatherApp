@@ -1,13 +1,5 @@
 
-.bkgImg{
-   
-        background: '../assets/background.jpg';
-        width: 100%;
-        height: 95vh;
-        background-size:contain;
-        background-repeat: no-repeat;
-      
-}
+
 
 .box{ 
     width:10%;
