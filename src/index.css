@@ -11,10 +11,10 @@ body {
   /* background-image: ; */
    background: url('./assets/background.jpg');
   width: 100%;
-  height: 100vh;
+  height: 120vh;
   background-size: cover;
   background-repeat:no-repeat;
-  
+  background-attachment: fixed;
     
 }
 
